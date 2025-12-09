@@ -43,7 +43,7 @@ Put each Handle-Half through the rings on the Hood. Push the split ends through 
 
 ### Front
 
-![](Diagrams/FrontSections.png)
+![FrontSections.png](Diagrams/FrontSections.PNG)
 
 ##### Parts
 _2 printed pieces, Main Lens, Tin Foil, Tape_
