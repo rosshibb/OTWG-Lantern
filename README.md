@@ -16,7 +16,7 @@ What follows is a guide for the assembly of a 3D-printed lantern that is modeled
 | [Lens 2](https://www.aliexpress.us/item/3256807704562444.html) | AliExpress | Glass Fresnel Thread Lens - D110MM F100MM | $18.58 | 1/26/25 |
 | [Button Switch - taken from flashlight](https://www.amazon.com/dp/B01B8VPM7A) | Amazon | HAUSBELL A100 LED EDC Flashlight | $8.29 | 10/16/24 |
 | [Battery Holder 4AA](https://www.digikey.com/en/products/detail/keystone-electronics/2478/303823) | DigiKey | 36-2478-ND | $2.02 | 10/14/24 |
-| [Screws and Nuts](https://www.homedepot.com/p/6-32-x-3-4-in-Zinc-Plated-Combo-Round-Head-Machine-Screw-8-Pack-831481/317479032) | Home Depot | #1006547981 | $1.47 | N/A (Bought in Store) |
+| [Screws and Nuts](https://www.homedepot.com/p/6-32-x-3-4-in-Zinc-Plated-Combo-Round-Head-Machine-Screw-8-Pack-831481/317479032) | Home Depot | #6-32 x 3/4 in. Zinc Plated Combo Round Head Machine Screw (8-Pack) #1006547981 | $1.47 | N/A (Bought in Store) |
 
 ...and of course, your choice of filament. I used [this](https://www.amazon.com/dp/B0C9CJT7RS?th=1), the Deep Red PLA from Ender Creality, as I found the color to match quite well to show's. 
 
