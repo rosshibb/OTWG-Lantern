@@ -4,6 +4,8 @@
 
 What follows is a guide for the assembly of a 3D-printed lantern that is modeled after the one featured in the show _Over the Garden Wall_. You will need to be able to solder if you wish to have the functionality of the light, and a couple other miscellaneous materials like wire, tin foil, and tape. Assuming prints are successful and generally low infill, all the printed pieces can be completed with a single 1kg roll of filament. 
 
+> "He who carries the dark lantern must be the beast"
+> - The Tavern Keeper, _Over the Garden Wall: Songs of the Dark Lantern_
 
 ## Materials
 
