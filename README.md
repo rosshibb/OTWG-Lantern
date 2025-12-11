@@ -27,7 +27,7 @@ What follows is a guide for the assembly of a 3D-printed lantern that is modeled
 The lantern is divided into 3 main sections that can be constructed independently, then combined. The **Top** only consisted of printed parts, apart from the three screws/nuts that hold the larger pieces together. The **Front** is essentially the necessary components to hold and position the main lens. The **Bottom** holds all the electronics, the batteries, LED, LED driver, and switch. A soldering iron is needed for this assembly. The bottom and top sections slide together and the front slides into both, rotating into a locking position that secures all three.
 
 ### Top
-![TopSectionParts.png](Diagrams/TopSectionParts.png)
+
 
 ##### Parts
 _6 Printed Pieces, 3 screws/nuts_
