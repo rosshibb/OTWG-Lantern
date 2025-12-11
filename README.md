@@ -35,7 +35,7 @@ _6 Printed Pieces, 3 screws/nuts_
 * Main-Top-Half
 * Cap
 * Handle-Grip
-* 2 Handle-Halfs
+* 2 Handle-Halves
 * 3 Screws/Nuts (Not pictured above)
 
 ##### Procedure
